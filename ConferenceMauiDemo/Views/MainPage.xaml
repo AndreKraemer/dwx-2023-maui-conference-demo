@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:ConferenceMauiDemo.ViewModels"
+             x:DataType="vm:MainPageViewModel"
+             x:Class="ConferenceMauiDemo.Views.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label" x:Key="HeaderStyle">
+                <Setter Property="TextColor" Value="{StaticResource Primary}"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="FontSize" Value="Medium"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView>
+        <Grid RowDefinitions="auto,*">
+            <VerticalStackLayout Padding="0,40,0,0" Spacing="10">
+                <Image Source="logo.jpg" MaximumWidthRequest="380" HorizontalOptions="Center" Margin="5,0" />
+                <Label Style="{StaticResource HeaderStyle}">Das Event für Web, Mobile, Java und .NET</Label>
+                <Label FontAttributes="Bold" Style="{StaticResource HeaderStyle}" Text="26. – 30. Juni 2023 | NCC OST Nürnberg"/>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Grid.Row="1" Padding="40" Spacing="10">
+                <Label FontSize="20" TextColor="{StaticResource Primary}">Developer Week ’23</Label>
+                <Label FontSize="Small">
+                    Die Developer Week (DWX) ist eine der größten Softwareentwickler-Konferenzen in Europa, die jedes Jahr eine Fülle an innovativen Technologien und kreativen Lösungen präsentiert. Mit über 200 Sessions von mehr als 150 Speakern deckt die DWX ein breites Spektrum an Themen ab, darunter .NET, Web, Cloud, Java und vieles mehr.
+                </Label>           
+                <Button Text=" Zum Programm " Style="{StaticResource HoverButton}" Command="{Binding NavigateToSessionsCommand}"/>
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

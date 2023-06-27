@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Jörg Neumann",
+    "bio": "Jörg Neumann ist Mitgründer und Geschäftsführer der Aclue GmbH. Er berät seit vielen Jahren Unternehmen bei der Technologieauswahl, Architektur und dem Entwurf mobiler Apps. Für sein Engagement in diesem Bereich wurde er von Microsoft mehrfach mit dem „Most Valuable Professional“-Award ausgezeichnet. Sein Wissen vermittelt er regelmäßig in Form von Büchern, Beiträgen in Fachzeitschriften sowie als Sprecher und Trainer auf Konferenzen und Seminaren. Sie erreichen ihn über Twitter (@JoergNeumann) oder seinen Blog headwriteline.blogspot.com.",
+    "company": "Aclue GmbH",
+    "image": "jn.jpg",
+    "twitter": "http://twitter.com/JoergNeumann"
+  },
+  {
+    "id": 2,
+    "name": "André Krämer",
+    "bio": "André Krämer ist Geschäftsführer der Quality Bytes GmbH und freiberuflicher Trainer und Berater. Seine Schwerpunkte liegen in den Bereichen App-Entwicklung mit .NET MAUI und Xamarin, Git und Azure DevOps, Dokumentenautomatisierung und Reporting mit TX Text Control sowie der Analyse von Memory Leaks und Performanceproblemen. Er ist regelmäßiger Autor für LinkedIn Learning, wo er bereits mehr als zwanzig Videotrainings veröffentlicht hat. Außerdem ist er TX Text Control MVP und Microsoft MVP.",
+    "company": "Quality Bytes GmbH",
+    "image": "ak.jpg",
+    "twitter": "https://twitter.com/codemurai"
+  },
+  {
+    "id": 3,
+    "name": "Max Marschall",
+    "bio": "Seit seiner Zeit als Tutor und Mitarbeiter im 3D-Labor an der Universität ist Max Schulte begeistert von Grafik-Engines und den Möglichkeiten moderner Businessanwendungen. Als Consultant und Software Engineer bei der Thinktecture AG liegt sein Schwerpunkt auf der Entwicklung von webbasierten Applikationen mit Angular und BabylonJS. Sie können Max Schulte auf Twitter (@MaxOSchulte) und über die Thinktecture AG (https://thinktecture.com/max-schulte) erreichen.",
+    "company": "Thinktecture AGs",
+    "image": "mm.png",
+    "twitter": "https://twitter.com/maxoschulte"
+  },
+  {
+    "id": 4,
+    "name": "Bernd Kaiser",
+    "bio": "Bernd Kaiser works as a full-stack software engineer at inovex. After studying computer science with a focus on IT security, he made a short excursion into the world of finance, only to return fully to the world of the Internet. In the process, he brought music effect devices into the cloud, roller coasters into the App Store and virtually united patients with their therapists. Many of his projects used JavaScript (later Typescript), and even after more than 20 years, there's still no end in sight.",
+    "company": "inovex",
+    "image": "bk.jpeg",
+    "twitter": ""
+  },
+  {
+    "id": 5,
+    "name": "Christian Liebel",
+    "bio": "Christian Liebel ist Consultant bei der Thinktecture AG in Karlsruhe. Dort entwickelt er moderne Cross-Plattform-Apps auf Basis von Angular und .NET Core. Er ist begeistert von den neuen Möglichkeiten der Anwendungsentwicklung, die sich mit Progressive Web Apps erschließen. Für seine aktive Arbeit in der Community wurde Christian als Microsoft MVP und Google GDE ausgezeichnet. Auf Twitter erreichen Sie ihn unter @christianliebel, sein persönliches Blog finden Sie unter https://christianliebel.com.",
+    "company": "Thinktecture AG",
+    "image": "cl.jpeg",
+    "twitter": "https://twitter.com/christianliebel"
+  },
+  {
+    "id": 6,
+    "name": "Christian Weyer",
+    "bio": "Christian Weyer ist Mit-Gründer und CTO der Thinktecture AG. Als Microsoft MVP, RD und Google GDE spricht er seit über zwei Dekaden auf unterschiedlichsten Software-Konferenzen und -Events weltweit - mit Leidenschaft und Engagement vor allem für verteilte Anwendungsarchitekturen und Cross-Plattform-Lösungen. Eine sowohl tief technische als auch realistische Einschätzung von Technologien ist eines seiner Markenzeichen.",
+    "company": "Thinktecture AG",
+    "image": "cw.jpeg",
+    "twitter": "https://twitter.com/christianweyer"
+  }
+]

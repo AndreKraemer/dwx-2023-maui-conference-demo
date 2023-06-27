@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "Flutter: Ein App-Modell für alles",
+    "description": "Mit Flutter hat Google eine universelle Development-Plattform geschaffen, mit der Apps für unterschiedliche Endgeräte entwickelt werden können. Waren in der Vergangenheit vor allem Mobile Apps das Ziel, adressiert Flutter 3 nun auch die Desktop- und Web-Entwicklung. Jörg Neumann beleuchtet in seinem Talk die interne Architektur und klärt die Frage, für welche Anwendungstypen sich das Flutter-Modell eignet.",
+    "location": "Oslo",
+    "sessionType": 1,
+    "speakerId": 1,
+    "time": "10:30 - 11:30"
+  },
+  {
+    "id": 2,
+    "title": "Coffee Break",
+    "description": "",
+    "sessionType": 3,
+    "speakerId": 0,
+    "time": "11:30 - 12:30"
+  },
+  {
+    "id": 3,
+    "title": "Cross-Platform-App-Entwicklung mit .NET MAUI in .NET 7",
+    "description": "Sechs Monate, nachdem Microsoft den Xamarin.Forms-Nachfolger .NET MAUI präsentiert hat, kam im November 2022 bereits der Nachfolger für .NET 7 heraus. In diesem Vortrag erhalten Sie einen Überblick über die Möglichkeiten, die .NET MAUI bietet, und erfahren, was mit .NET 7 Neues hinzugekommen ist. Außerdem erfahren Sie, an welchen Stellen der Schuh noch drückt, wo Microsoft noch nachbessern muss und wohin die Reise unter .NET 8 gehen wird.",
+    "location": "Oslo",
+    "sessionType": 1,
+    "speakerId": 2,
+    "time": "11:45 - 12:45"
+  },
+  {
+    "id": 4,
+    "title": "Lunch Break",
+    "description": "",
+    "sessionType": 3,
+    "speakerId": 0,
+    "time": "12:45 - 14:15"
+  },
+  {
+    "id": 5,
+    "title": "Cross-Platform mit Capacitor und Ihrer Web-App",
+    "description": "Was bedeutet Cross-Platform, und was ist eine hybride Anwendung? Wie profitieren wir von Capacitor, und wo unterscheidet es sich von anderen Technologien wie Flutter? In seiner Session zeigt Max Schulte, wie Sie mit Ihrer bestehenden Web-App über die APIs und das Plugin-System von Capacitor neue Plattformen erschließen können - ohne große App-Anpassungen und mit den bekannten Mitteln der Webentwicklung. Dabei werden die Vor- und Nachteile einer hybriden App betrachtet und an einem Beispiel aus der Praxis bewertet. Lernen Sie anhand von Live-Coding, wie Sie Ihre Web-App in eine Hybrid-App verwandeln können. Erreichen Sie neue iOS- und Android-Nutzer, oder nutzen Sie einfach plattformspezifische Features, die dem Web noch nicht zur Verfügung stehen.",
+    "location": "Oslo",
+    "sessionType": 1,
+    "speakerId": 3,
+    "time": "14:15 - 15:15"
+  },
+  {
+    "id": 6,
+    "title": "Coffee Break",
+    "description": "",
+    "sessionType": 3,
+    "speakerId": 0,
+    "time": "15:15 - 15:30"
+  },
+  {
+    "id": 7,
+    "title": "Multi-Platform Desktop Apps with Tauri",
+    "description": "Nowadays, most companies build their Desktop apps with HTML, CSS and JavaScript. Currently everybody is using Electron to bundle and ship these apps. Sadly also everybody knows how big and memory hungry Electron apps typically are. Here enters a new challenger: Tauri, a modern toolkit to build smaller, faster, and more secure desktop applications. In this session we will take a look at how Tauri is able to deliver these promises and how easy it is to start a Tauri project. We will take a closer look at Tauri’s “security first” approach, compare it to Electron, and finally explore the even newer Android and iOS targets.",
+    "location": "Oslo",
+    "sessionType": 1,
+    "speakerId": 4,
+    "time": "15:30 - 16:30"
+  },
+  {
+    "id": 8,
+    "title": "Coffee Break",
+    "description": "",
+    "sessionType": 3,
+    "speakerId": 0,
+    "time": "16:30 - 17:00"
+  },
+  {
+    "id": 9,
+    "title": "Progressive Web Apps: Erfolgsfaktoren, Grenzen, Ausblick",
+    "description": "Progressive Web Apps sind ein plattformübergreifendes, webbasiertes Anwendungsmodell. Einmal geschrieben, laufen diese Anwendungen überall von Mobile bis Desktop. In den letzten Jahren kamen dank der Initiative \"Project Fugu\" viele neue Schnittstellen ins Web, die PWAs auf Desktopniveau gehoben haben. Doch auch auf Mobilgeräten hat sich einiges getan: So können in diesem Jahr PWAs endlich auch auf iPhones und iPads Pushbenachrichtigungen empfangen. Zeit also, Bilanz zu ziehen: Was kann mit Progressive Web Apps im Jahr 2023 erreicht werden?Wo liegen die Grenzen die Anwendungsmodells? Wie gelingt der Einsatz? Und wie geht es weiter? Christian Liebel von Thinktecture gibt einen aktuellen Überblick.",
+    "location": "Oslo",
+    "sessionType": 1,
+    "speakerId": 5,
+    "time": "17:00 - 18:00"
+  },
+  {
+    "id": 10,
+    "title": "Coffee Break",
+    "description": "",
+    "sessionType": 3,
+    "speakerId": 0,
+    "time": "18:00 - 18:15"
+  },
+  {
+    "id": 11,
+    "title": "WASM, WASI, WTF? WebAssembly 101 für .NET-Entwickler",
+    "description": "Buzzword-Bingo, FTW! Nein, in dieser Session geht es NICHT um Blazor WebAssembly. Vielmehr wird Christian WebAssembly als Basistechnologie und allgegenwärtige Plattform diskutieren, die viele immer erträumte Szenarien im Computing-Umfeld ermöglicht. Dazu gehören sichere isolierte Ausführungsumgebungen, leistungsstarke Instanziierungs- und Ausführungs-Engines sowie leichtgewichtige serverseitige und Serverless-Laufzeitumgebungen. Und das alles mit fast jeder Programmiersprache und jedem Framework, einschließlich C# und .NET. Kommt vorbei und macht euch ein Bild davon, warum, was und wie WebAssembly in einer Welt jenseits des Browsers einen Unterschied machen wird. Als .NET-Entwickler sollte man auf jeden Fall über eine der aktuell heißesten Technologien Bescheid wissen. Oh, und ja - wir werden auch ganz kurz über Blazor WebAssembly sprechen ...",
+    "location": "Oslo",
+    "sessionType": 1,
+    "speakerId": 6,
+    "time": "18:15 - 19:15"
+  }
+]
